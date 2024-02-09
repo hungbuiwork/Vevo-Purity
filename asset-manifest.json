@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Vevo-Purity/static/css/main.f1a67246.css",
-    "main.js": "/Vevo-Purity/static/js/main.2ce89716.js",
+    "main.css": "/Vevo-Purity/static/css/main.32eb6afb.css",
+    "main.js": "/Vevo-Purity/static/js/main.29049bbf.js",
     "static/js/592.c8db5c42.chunk.js": "/Vevo-Purity/static/js/592.c8db5c42.chunk.js",
     "static/media/logo.svg": "/Vevo-Purity/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Vevo-Purity/index.html",
-    "main.f1a67246.css.map": "/Vevo-Purity/static/css/main.f1a67246.css.map",
-    "main.2ce89716.js.map": "/Vevo-Purity/static/js/main.2ce89716.js.map",
+    "main.32eb6afb.css.map": "/Vevo-Purity/static/css/main.32eb6afb.css.map",
+    "main.29049bbf.js.map": "/Vevo-Purity/static/js/main.29049bbf.js.map",
     "592.c8db5c42.chunk.js.map": "/Vevo-Purity/static/js/592.c8db5c42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1a67246.css",
-    "static/js/main.2ce89716.js"
+    "static/css/main.32eb6afb.css",
+    "static/js/main.29049bbf.js"
   ]
 }
