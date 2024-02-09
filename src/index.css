@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: hsl(43,79%,87%);
+}
+
+.question{
+  text-align: left;
+  font-size:  larger;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.ital {
+  font-style: italic;
+}
+
+.header{
+  max-width: 60rem;
+  margin: auto;
+}
+
+.title{
+  font-size: 5rem;
+  line-height:0rem;
+}
+.desc{
+  font-size: larger;
+}
