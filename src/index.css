@@ -4,6 +4,7 @@
 
 body{
   background-color: hsl(43,79%,87%);
+  font-family: "Times New Roman", Times, serif;
 }
 
 .question{
@@ -26,7 +27,6 @@ body{
 
 .title{
   font-size: 5rem;
-  line-height:0rem;
 }
 .desc{
   font-size: larger;
