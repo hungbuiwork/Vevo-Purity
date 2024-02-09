@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vevo-Purity/static/css/main.b7456785.css",
+    "main.js": "/Vevo-Purity/static/js/main.1853d284.js",
+    "static/js/592.c8db5c42.chunk.js": "/Vevo-Purity/static/js/592.c8db5c42.chunk.js",
+    "static/media/logo.svg": "/Vevo-Purity/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Vevo-Purity/index.html",
+    "main.b7456785.css.map": "/Vevo-Purity/static/css/main.b7456785.css.map",
+    "main.1853d284.js.map": "/Vevo-Purity/static/js/main.1853d284.js.map",
+    "592.c8db5c42.chunk.js.map": "/Vevo-Purity/static/js/592.c8db5c42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7456785.css",
+    "static/js/main.1853d284.js"
+  ]
+}
